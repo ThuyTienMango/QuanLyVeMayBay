@@ -1,0 +1,68 @@
+
+@media (max-width: 1200px)   {
+    .tf-sort{
+        height: 20px;
+    }
+    .tf-sort__layout{
+        margin-left: 43%;
+    }
+    .filter-price{
+        
+        width: 20%;
+    }
+    .sort-section__content{
+        height: 30px;
+        
+    }
+    .sort-section__name{
+        padding: 5px 10px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    } 
+    @media (max-width: 1148px) {
+    
+    .filter-category{
+        display: none;
+    
+    }
+    .sort-section__content{
+        margin-left: 21.5%;
+        
+    }
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* mobile */
+    @media(max-width: 46.1875em) {
+    }
+    /*  Tablet & mobile */
+    @media (max-width: 63.9375em) {
+    }
